@@ -1,1 +1,1 @@
-# HateSpeechDetection
+Hate speech is one of the serious issues we see on social media platforms like Facebook and Twitter, mostly from people with political views
